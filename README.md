@@ -1,5 +1,5 @@
 # Hola 💬
-(![portada](https://github.com/user-attachments/assets/a9e15790-50d1-4d4a-b113-4da3ba308d42)
+![portada](https://github.com/user-attachments/assets/a9e15790-50d1-4d4a-b113-4da3ba308d42)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
